@@ -26,30 +26,10 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "on_off_category":"1"
+      "on_off_category":"4"
     }
   ],
-  "More":
-  [
-    {
-      "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    },
-    {
-      "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    }
-  ],
+ 
 
   "Categories": [
     {
@@ -80,18 +60,7 @@
             "title": "1",
             "image": "https://i.pinimg.com/736x/2d/84/b4/2d84b404a779cd6cf3d2c99c139a1010.jpg"
         },
-        {
-            "id": "2",
-            "name_category": "Wallpaper Aesthetic",
-            "title": "2",
-            "image": "https://i.pinimg.com/736x/43/5b/b7/435bb7bb0b0b191617f7468d19c805bf.jpg"
-        },
-        {
-            "id": "3",
-            "name_category": "Wallpaper Aesthetic",
-            "title": "3",
-            "image": "https://i.pinimg.com/736x/d6/bb/96/d6bb969d5766409354a3c601b2a3dc60.jpg"
-        },
+        
         {
             "id": "4",
             "name_category": "Wallpaper Aesthetic",
