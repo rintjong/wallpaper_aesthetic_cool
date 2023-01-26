@@ -42,25 +42,25 @@
   "Data":
   [
         {
-            "id": "1",
+            "id": 1,
             "name_category": "Wallpaper Aesthetic",
             "title": "1",
             "image": "https://i.pinimg.com/736x/2d/84/b4/2d84b404a779cd6cf3d2c99c139a1010.jpg"
         },
         {
-            "id": "2",
+            "id": 2,
             "name_category": "Wallpaper Aesthetic",
             "title": "2",
             "image": "https://i.pinimg.com/736x/43/5b/b7/435bb7bb0b0b191617f7468d19c805bf.jpg"
         },
         {
-            "id": "3",
+            "id": 3,
             "name_category": "Wallpaper Aesthetic",
             "title": "3",
             "image": "https://i.pinimg.com/736x/d6/bb/96/d6bb969d5766409354a3c601b2a3dc60.jpg"
         },
         {
-            "id": "4",
+            "id": 4,
             "name_category": "Wallpaper Aesthetic",
             "title": "4",
             "image": "https://i.pinimg.com/736x/15/10/1d/15101d3d54c003fd928a8ea8e9c085ae.jpg"
@@ -72,241 +72,241 @@
             "image": "https://i.pinimg.com/736x/2d/84/b4/2d84b404a779cd6cf3d2c99c139a1010.jpg"
         },
         {
-            "id": "6",
+            "id": 6,
             "name_category": "Wallpaper Aesthetic",
             "title": "6",
             "image": "https://i.pinimg.com/736x/43/5b/b7/435bb7bb0b0b191617f7468d19c805bf.jpg"
         },
         {
-            "id": "7",
+            "id": 7,
             "name_category": "Wallpaper Aesthetic",
             "title": "7",
             "image": "https://i.pinimg.com/736x/d6/bb/96/d6bb969d5766409354a3c601b2a3dc60.jpg"
         },
         {
-            "id": "8",
+            "id": 8,
             "name_category": "Wallpaper Aesthetic",
             "title": "8",
             "image": "https://i.pinimg.com/736x/15/10/1d/15101d3d54c003fd928a8ea8e9c085ae.jpg"
         },
         {
-            "id": "9",
+            "id": 9,
             "name_category": "Wallpaper Aesthetic",
             "title": "9",
             "image": "https://i.pinimg.com/736x/98/1f/9e/981f9eeeef7bfc5742d8315df9ef4403.jpg"
         },
         {
-            "id": "10",
+            "id": 10,
             "name_category": "Wallpaper Aesthetic",
             "title": "10",
             "image": "https://i.pinimg.com/736x/ec/eb/14/eceb141b52c02da898543a80f9f6a6fb.jpg"
         },
         {
-            "id": "11",
+            "id": 11,
             "name_category": "Wallpaper Aesthetic",
             "title": "11",
             "image": "https://i.pinimg.com/736x/a9/44/c6/a944c6113be8273807b973e5fed75636.jpg"
         },
         {
-            "id": "12",
+            "id": 12,
             "name_category": "Wallpaper Aesthetic",
             "title": "12",
             "image": "https://i.pinimg.com/736x/2f/68/2b/2f682b55bdda8c89867b2b8346300ffc.jpg"
         },
         {
-            "id": "13",
+            "id": 13,
             "name_category": "Wallpaper Aesthetic",
             "title": "13",
             "image": "https://i.pinimg.com/736x/8e/e1/af/8ee1afe0efc2c4468874e8207ea48f0e.jpg"
         },
         {
-            "id": "14",
+            "id": 14,
             "name_category": "Wallpaper Aesthetic",
             "title": "14",
             "image": "https://i.pinimg.com/736x/75/d7/e4/75d7e470bff97a3730c6e587358f2c96.jpg"
         },
         {
-            "id": "15",
+            "id": 15,
             "name_category": "Wallpaper Aesthetic",
             "title": "15",
             "image": "https://i.pinimg.com/736x/c0/f0/73/c0f073e601c30a14b992b6e478059459.jpg"
         },
         {
-            "id": "16",
+            "id": 16,
             "name_category": "Wallpaper Aesthetic",
             "title": "16",
             "image": "https://i.pinimg.com/736x/95/74/04/95740456f238ae18df6371380c1b8e92.jpg"
         },
         {
-            "id": "17",
+            "id": 17,
             "name_category": "Wallpaper Aesthetic",
             "title": "17",
             "image": "https://i.pinimg.com/736x/b1/04/b9/b104b9f9cf9e5d763ea2ddb02fa13673.jpg"
         },
         {
-            "id": "18",
+            "id": 18,
             "name_category": "Wallpaper Aesthetic",
             "title": "18",
             "image": "https://i.pinimg.com/736x/2d/84/b4/2d84b404a779cd6cf3d2c99c139a1010.jpg"
         },
         {
-            "id": "19",
+            "id": 19,
             "name_category": "Wallpaper Aesthetic",
             "title": "19",
             "image": "https://i.pinimg.com/736x/43/5b/b7/435bb7bb0b0b191617f7468d19c805bf.jpg"
         },
         {
-            "id": "20",
+            "id": 20,
             "name_category": "Wallpaper Aesthetic",
             "title": "20",
             "image": "https://i.pinimg.com/736x/d6/bb/96/d6bb969d5766409354a3c601b2a3dc60.jpg"
         },
         {
-            "id": "21",
+            "id": 21,
             "name_category": "Wallpaper Aesthetic",
             "title": "21",
             "image": "https://i.pinimg.com/736x/15/10/1d/15101d3d54c003fd928a8ea8e9c085ae.jpg"
         },
         {
-            "id": "22",
+            "id": 22,
             "name_category": "Wallpaper Aesthetic",
             "title": "22",
             "image": "https://i.pinimg.com/736x/98/1f/9e/981f9eeeef7bfc5742d8315df9ef4403.jpg"
         },
         {
-            "id": "23",
+            "id": 23,
             "name_category": "Wallpaper Aesthetic",
             "title": "23",
             "image": "https://i.pinimg.com/736x/ec/eb/14/eceb141b52c02da898543a80f9f6a6fb.jpg"
         },
         {
-            "id": "24",
+            "id": 24,
             "name_category": "Wallpaper Aesthetic",
             "title": "24",
             "image": "https://i.pinimg.com/736x/a9/44/c6/a944c6113be8273807b973e5fed75636.jpg"
         },
         {
-            "id": "25",
+            "id": 25,
             "name_category": "Wallpaper Aesthetic",
             "title": "25",
             "image": "https://i.pinimg.com/736x/2f/68/2b/2f682b55bdda8c89867b2b8346300ffc.jpg"
         },
         {
-            "id": "26",
+            "id": 26,
             "name_category": "Wallpaper Aesthetic",
             "title": "26",
             "image": "https://i.pinimg.com/736x/8e/e1/af/8ee1afe0efc2c4468874e8207ea48f0e.jpg"
         },
         {
-            "id": "27",
+            "id": 27,
             "name_category": "Wallpaper Aesthetic",
             "title": "27",
             "image": "https://i.pinimg.com/736x/75/d7/e4/75d7e470bff97a3730c6e587358f2c96.jpg"
         },
         {
-            "id": "28",
+            "id": 28,
             "name_category": "Wallpaper Aesthetic",
             "title": "28",
             "image": "https://i.pinimg.com/736x/c0/f0/73/c0f073e601c30a14b992b6e478059459.jpg"
         },
         {
-            "id": "29",
+            "id": 29,
             "name_category": "Wallpaper Aesthetic",
             "title": "29",
             "image": "https://i.pinimg.com/736x/95/74/04/95740456f238ae18df6371380c1b8e92.jpg"
         },
         {
-            "id": "30",
+            "id": 30,
             "name_category": "Wallpaper Aesthetic",
             "title": "30",
             "image": "https://i.pinimg.com/736x/b1/04/b9/b104b9f9cf9e5d763ea2ddb02fa13673.jpg"
         },
         {
-            "id": "31",
+            "id": 31,
             "name_category": "Wallpaper Aesthetic",
-            "title": "31",
+            "title": 31,
             "image": "https://i.pinimg.com/736x/c8/16/24/c816244e0c573648d7afa071f1ae50cf.jpg"
         },
         {
-            "id": "32",
+            "id": 32,
             "name_category": "Wallpaper Aesthetic",
             "title": "32",
             "image": "https://i.pinimg.com/736x/13/55/28/1355289a3e95edd793f4ba2d80d9f557.jpg"
         },
         {
-            "id": "33",
+            "id": 33,
             "name_category": "Wallpaper Aesthetic",
             "title": "33",
             "image": "https://i.pinimg.com/736x/d6/8f/6e/d68f6e2054541cc224b2d38d13edf75d.jpg"
         },
         {
-            "id": "34",
+            "id": 34,
             "name_category": "Wallpaper Aesthetic",
             "title": "34",
             "image": "https://i.pinimg.com/736x/40/fb/85/40fb8597fbe753f5fa440a455695a5f3.jpg"
         },
         {
-            "id": "35",
+            "id": 35,
             "name_category": "Wallpaper Aesthetic",
             "title": "35",
             "image": "https://i.pinimg.com/736x/d1/6d/b0/d16db086f1bba2011337ae8cb3dd4704.jpg"
         },
         {
-            "id": "36",
+            "id": 36,
             "name_category": "Wallpaper Aesthetic",
             "title": "36",
             "image": "https://i.pinimg.com/736x/c0/f0/73/c0f073e601c30a14b992b6e478059459.jpg"
         },
         {
-            "id": "37",
+            "id": 37,
             "name_category": "Wallpaper Aesthetic",
             "title": "37",
             "image": "https://i.pinimg.com/736x/95/74/04/95740456f238ae18df6371380c1b8e92.jpg"
         },
         {
-            "id": "38",
+            "id": 38,
             "name_category": "Wallpaper Aesthetic",
             "title": "38",
             "image": "https://i.pinimg.com/736x/b1/04/b9/b104b9f9cf9e5d763ea2ddb02fa13673.jpg"
         },
         {
-            "id": "39",
+            "id": 39,
             "name_category": "Wallpaper Aesthetic",
             "title": "39",
             "image": "https://i.pinimg.com/736x/c8/16/24/c816244e0c573648d7afa071f1ae50cf.jpg"
         },
         {
-            "id": "40",
+            "id": 40,
             "name_category": "Wallpaper Aesthetic",
             "title": "40",
             "image": "https://i.pinimg.com/736x/13/55/28/1355289a3e95edd793f4ba2d80d9f557.jpg"
         },
         {
-            "id": "41",
+            "id": 41,
             "name_category": "Wallpaper Aesthetic",
             "title": "41",
             "image": "https://i.pinimg.com/736x/d6/8f/6e/d68f6e2054541cc224b2d38d13edf75d.jpg"
         },
         {
-            "id": "42",
+            "id": 42,
             "name_category": "Wallpaper Aesthetic",
             "title": "42",
             "image": "https://i.pinimg.com/736x/40/fb/85/40fb8597fbe753f5fa440a455695a5f3.jpg"
         },
         {
-            "id": "43",
+            "id": 43,
             "name_category": "Wallpaper Aesthetic",
             "title": "43",
             "image": "https://i.pinimg.com/736x/d1/6d/b0/d16db086f1bba2011337ae8cb3dd4704.jpg"
         },
         {
-            "id": "44",
+            "id": 44,
             "name_category": "Wallpaper Aesthetic",
             "title": "44",
             "image": "https://i.pinimg.com/736x/8a/01/81/8a01814f79fce1fb02c0bbb9de2ba802.jpg"
         },
         {
-            "id": "45",
+            "id": 45,
             "name_category": "Wallpaper Aesthetic",
             "title": "45",
             "image": "https://i.pinimg.com/736x/15/3c/13/153c1360451ae6de5def961fbec5452c.jpg"
