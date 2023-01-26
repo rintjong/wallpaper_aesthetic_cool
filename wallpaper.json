@@ -26,7 +26,7 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "on_off_category":""
+      "on_off_category":"1"
     }
   ],
   "More":
@@ -54,8 +54,8 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      "name_category": "Wallpaper Aesthetic",
+      "image": "https://i.pinimg.com/736x/d6/bb/96/d6bb969d5766409354a3c601b2a3dc60.jpg"
 
     },
     {
