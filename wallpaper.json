@@ -78,7 +78,7 @@
 	  {
       "id": 8,
       "name_category": "Dark Wallpaper",
-      "image": "https://i.pinimg.com/736/04/e0/0c/04e00c9ad8ed9f6a8fbcfbeb0d0f60d8.jpg"
+      "image": "https://i.pinimg.com/736x/04/e0/0c/04e00c9ad8ed9f6a8fbcfbeb0d0f60d8.jpg"
 
     },
 	  {
@@ -96,7 +96,7 @@
 	  {
       "id": 11,
       "name_category": "Gamer Wallpaper",
-      "image": "https://i.pinimg.com/236x/86/e0/b0/86e0b01d272d893e666d7a1946024f9c.jpg"
+      "image": "https://i.pinimg.com/736x/86/e0/b0/86e0b01d272d893e666d7a1946024f9c.jpg"
 
     }
   ],
@@ -955,186 +955,188 @@
             "title": "Nature Wallpaper",
             "image": "https://i.pinimg.com/736x/4d/15/58/4d1558af9b2d5bb27e175605c9668df4--red-sunflowers-pink-flowers.jpg"
         },
-	   {
+	   
+        {
             "id": "1",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/20/1d/7d/201d7d7cdd00761895bbc206c1ead57a.jpg"
+            "image": "https://i.pinimg.com/736x/20/1d/7d/201d7d7cdd00761895bbc206c1ead57a.jpg"
         },
         {
             "id": "2",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/04/e0/0c/04e00c9ad8ed9f6a8fbcfbeb0d0f60d8.jpg"
+            "image": "https://i.pinimg.com/736x/04/e0/0c/04e00c9ad8ed9f6a8fbcfbeb0d0f60d8.jpg"
         },
         {
             "id": "3",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/85/f1/29/85f129578c8c5156255573bf8d496247.jpg"
+            "image": "https://i.pinimg.com/736x/85/f1/29/85f129578c8c5156255573bf8d496247.jpg"
         },
         {
             "id": "4",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/29/ae/47/29ae4748c04df0b72012376f09327104.jpg"
+            "image": "https://i.pinimg.com/736x/29/ae/47/29ae4748c04df0b72012376f09327104.jpg"
         },
         {
             "id": "5",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/27/a2/7e/27a27ee2f8325043258eb2a4d58acaf6.jpg"
+            "image": "https://i.pinimg.com/736x/27/a2/7e/27a27ee2f8325043258eb2a4d58acaf6.jpg"
         },
         {
             "id": "6",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/73/c0/36/73c0363185a8926125bacac695c997bb.jpg"
+            "image": "https://i.pinimg.com/736x/73/c0/36/73c0363185a8926125bacac695c997bb.jpg"
         },
         {
             "id": "7",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/15/9c/d2/159cd2ee3f3f8df8c681ac10f2e0ea86.jpg"
+            "image": "https://i.pinimg.com/736x/15/9c/d2/159cd2ee3f3f8df8c681ac10f2e0ea86.jpg"
         },
         {
             "id": "8",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/12/7f/9f/127f9f3cda22c93f69383ec58deeb8df.jpg"
+            "image": "https://i.pinimg.com/736x/12/7f/9f/127f9f3cda22c93f69383ec58deeb8df.jpg"
         },
         {
             "id": "9",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/ca/bc/6f/cabc6f16d61daa4771517251588bd5a3.jpg"
+            "image": "https://i.pinimg.com/736x/ca/bc/6f/cabc6f16d61daa4771517251588bd5a3.jpg"
         },
         {
             "id": "10",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/bb/de/c9/bbdec9166528fa675db72ebe8e285245.jpg"
+            "image": "https://i.pinimg.com/736x/bb/de/c9/bbdec9166528fa675db72ebe8e285245.jpg"
         },
         {
             "id": "11",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/32/8f/a2/328fa219bc7102f480e4a38cafc36fcb.jpg"
+            "image": "https://i.pinimg.com/736x/32/8f/a2/328fa219bc7102f480e4a38cafc36fcb.jpg"
         },
         {
             "id": "12",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/50/ca/bd/50cabdeea00bf605980948e8999c60c3.jpg"
+            "image": "https://i.pinimg.com/736x/50/ca/bd/50cabdeea00bf605980948e8999c60c3.jpg"
         },
         {
             "id": "13",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/ce/1b/18/ce1b185d57b476b311c85a5f5a23ac48.jpg"
+            "image": "https://i.pinimg.com/736x/ce/1b/18/ce1b185d57b476b311c85a5f5a23ac48.jpg"
         },
         {
             "id": "14",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/d3/96/c3/d396c3a901e62e84eab2466353754280.jpg"
+            "image": "https://i.pinimg.com/736x/d3/96/c3/d396c3a901e62e84eab2466353754280.jpg"
         },
         {
             "id": "15",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/73/0b/5e/730b5e49470bc163e8f346072bba2540.jpg"
+            "image": "https://i.pinimg.com/736x/73/0b/5e/730b5e49470bc163e8f346072bba2540.jpg"
         },
         {
             "id": "16",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/4b/49/d8/4b49d8876399a126191cb0453c662caf.jpg"
+            "image": "https://i.pinimg.com/736x/4b/49/d8/4b49d8876399a126191cb0453c662caf.jpg"
         },
         {
             "id": "17",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/92/da/7f/92da7ff5399639c428776873fbea60ae.jpg"
+            "image": "https://i.pinimg.com/736x/92/da/7f/92da7ff5399639c428776873fbea60ae.jpg"
         },
         {
             "id": "18",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/be/a3/c1/bea3c1c842e0dd00056b189539f55651.jpg"
+            "image": "https://i.pinimg.com/736x/be/a3/c1/bea3c1c842e0dd00056b189539f55651.jpg"
         },
         {
             "id": "19",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/e2/e0/8c/e2e08c8b12820621f1e3a0cc17933c92.jpg"
+            "image": "https://i.pinimg.com/736x/e2/e0/8c/e2e08c8b12820621f1e3a0cc17933c92.jpg"
         },
         {
             "id": "20",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/ea/0f/0b/ea0f0b27e446c6fdff4d82efd07a9e43.jpg"
+            "image": "https://i.pinimg.com/736x/ea/0f/0b/ea0f0b27e446c6fdff4d82efd07a9e43.jpg"
         },
         {
             "id": "21",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/e5/b7/9e/e5b79eedd0c827d29cfc9627cffbe1a1.jpg"
+            "image": "https://i.pinimg.com/736x/e5/b7/9e/e5b79eedd0c827d29cfc9627cffbe1a1.jpg"
         },
         {
             "id": "22",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/57/b9/03/57b903130bf281ee47110f48e6e2a28e.jpg"
+            "image": "https://i.pinimg.com/736x/57/b9/03/57b903130bf281ee47110f48e6e2a28e.jpg"
         },
         {
             "id": "23",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/b4/fd/0f/b4fd0f2d7d98999effe5c1eb3064fdb1.jpg"
+            "image": "https://i.pinimg.com/736x/b4/fd/0f/b4fd0f2d7d98999effe5c1eb3064fdb1.jpg"
         },
         {
             "id": "24",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/99/54/8c/99548c9179f6488583a47389c3f7bdf5.jpg"
+            "image": "https://i.pinimg.com/736x/99/54/8c/99548c9179f6488583a47389c3f7bdf5.jpg"
         },
         {
             "id": "25",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/d5/d2/95/d5d29556adeed80d724b79eb0f4aea45--sailor-moon-sailors.jpg"
+            "image": "https://i.pinimg.com/736x/d5/d2/95/d5d29556adeed80d724b79eb0f4aea45--sailor-moon-sailors.jpg"
         },
         {
             "id": "26",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/88/f5/d6/88f5d69171096c3ae3180d93f6a51777.jpg"
+            "image": "https://i.pinimg.com/736x/88/f5/d6/88f5d69171096c3ae3180d93f6a51777.jpg"
         },
         {
             "id": "27",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/0e/38/c4/0e38c4f82edb690f71db9f8abb45944c.jpg"
+            "image": "https://i.pinimg.com/736x/0e/38/c4/0e38c4f82edb690f71db9f8abb45944c.jpg"
         },
         {
             "id": "28",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/3b/e3/ea/3be3ea9e54b7337d8faab48b70bdb016.jpg"
+            "image": "https://i.pinimg.com/736x/3b/e3/ea/3be3ea9e54b7337d8faab48b70bdb016.jpg"
         },
         {
             "id": "29",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/0f/ad/50/0fad500f7c75c08c2de9a2bedc462413.jpg"
+            "image": "https://i.pinimg.com/736x/0f/ad/50/0fad500f7c75c08c2de9a2bedc462413.jpg"
         },
         {
             "id": "30",
             "name_category": "Dark Wallpaper",
             "title": "Dark Wallpaper",
-            "image": "https://i.pinimg.com/736/e0/3a/81/e03a8140e9956fb53424844fb176b900.jpg"
+            "image": "https://i.pinimg.com/736x/e0/3a/81/e03a8140e9956fb53424844fb176b900.jpg"
         },
+
 	  {
             "id": "2",
             "name_category": "Motivational Wallpaper",
@@ -1409,157 +1411,157 @@
             "id": "1",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/d0/62/1d/d0621d69ae1cc802d3f563e76d28795a.jpg"
+            "image": "https://i.pinimg.com/736x/d0/62/1d/d0621d69ae1cc802d3f563e76d28795a.jpg"
         },
         {
             "id": "3",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/96/ff/d2/96ffd2663c2dbd007f15e9cf7946c555.jpg"
+            "image": "https://i.pinimg.com/736x/96/ff/d2/96ffd2663c2dbd007f15e9cf7946c555.jpg"
         },
         {
             "id": "5",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/86/e0/b0/86e0b01d272d893e666d7a1946024f9c.jpg"
+            "image": "https://i.pinimg.com/736x/86/e0/b0/86e0b01d272d893e666d7a1946024f9c.jpg"
         },
         {
             "id": "6",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/3c/9a/45/3c9a45b5e40aa5cec45a670dc01410ff.jpg"
+            "image": "https://i.pinimg.com/736x/3c/9a/45/3c9a45b5e40aa5cec45a670dc01410ff.jpg"
         },
         {
             "id": "7",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/d6/e6/72/d6e6726839d3b917c15bf25ffe8b1039.jpg"
+            "image": "https://i.pinimg.com/736x/d6/e6/72/d6e6726839d3b917c15bf25ffe8b1039.jpg"
         },
         {
             "id": "8",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/a1/d5/dc/a1d5dcae1b962430d2715e307fae98f7--space-invaders-reading-challenge.jpg"
+            "image": "https://i.pinimg.com/736x/a1/d5/dc/a1d5dcae1b962430d2715e307fae98f7--space-invaders-reading-challenge.jpg"
         },
         {
             "id": "9",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/ab/bb/c1/abbbc1d5058f732193e6e3a37eaafcc8.jpg"
+            "image": "https://i.pinimg.com/736x/ab/bb/c1/abbbc1d5058f732193e6e3a37eaafcc8.jpg"
         },
         {
             "id": "10",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/87/02/6e/87026ea3bba24b4fb65fc8d3901426dc.jpg"
+            "image": "https://i.pinimg.com/736x/87/02/6e/87026ea3bba24b4fb65fc8d3901426dc.jpg"
         },
         {
             "id": "11",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/f7/ab/27/f7ab2723e5c44fd47a0d489cd49509e1.jpg"
+            "image": "https://i.pinimg.com/736x/f7/ab/27/f7ab2723e5c44fd47a0d489cd49509e1.jpg"
         },
         {
             "id": "12",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/a0/23/86/a023865aa63f7e694b6947a78711581b--music-wallpaper-listening-to-music.jpg"
+            "image": "https://i.pinimg.com/736x/a0/23/86/a023865aa63f7e694b6947a78711581b--music-wallpaper-listening-to-music.jpg"
         },
         {
             "id": "13",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/c1/c3/53/c1c353593411081d1772cfb499e43c51.jpg"
+            "image": "https://i.pinimg.com/736x/c1/c3/53/c1c353593411081d1772cfb499e43c51.jpg"
         },
         {
             "id": "14",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/5e/c1/c1/5ec1c17ab28b05ddd305f30983c0f06b.jpg"
+            "image": "https://i.pinimg.com/736x/5e/c1/c1/5ec1c17ab28b05ddd305f30983c0f06b.jpg"
         },
         {
             "id": "15",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/d5/41/2a/d5412aae6a1f8c0952f21fc28780bbd7.jpg"
+            "image": "https://i.pinimg.com/736x/d5/41/2a/d5412aae6a1f8c0952f21fc28780bbd7.jpg"
         },
         {
             "id": "16",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/ca/3b/6a/ca3b6a6c4a4ec778ec7e3678b29a1e4a.jpg"
+            "image": "https://i.pinimg.com/736x/ca/3b/6a/ca3b6a6c4a4ec778ec7e3678b29a1e4a.jpg"
         },
         {
             "id": "17",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/fe/b4/ea/feb4ea3f6efb434bae7e2589113b44eb.jpg"
+            "image": "https://i.pinimg.com/736x/fe/b4/ea/feb4ea3f6efb434bae7e2589113b44eb.jpg"
         },
         {
             "id": "18",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/57/f8/cd/57f8cd0d7352aa5872f372b2953efa57.jpg"
+            "image": "https://i.pinimg.com/736x/57/f8/cd/57f8cd0d7352aa5872f372b2953efa57.jpg"
         },
         {
             "id": "19",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/3b/0f/53/3b0f535010b6e89fa4a7066af7b80ca5.jpg"
+            "image": "https://i.pinimg.com/736x/3b/0f/53/3b0f535010b6e89fa4a7066af7b80ca5.jpg"
         },
         {
             "id": "20",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/c5/33/e1/c533e111ffbe785268526ebeb9b225d1--treble-clef-rainbows.jpg"
+            "image": "https://i.pinimg.com/736x/c5/33/e1/c533e111ffbe785268526ebeb9b225d1--treble-clef-rainbows.jpg"
         },
         {
             "id": "21",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/d2/4b/8f/d24b8f46da240398911c3bbca15fdb26.jpg"
+            "image": "https://i.pinimg.com/736x/d2/4b/8f/d24b8f46da240398911c3bbca15fdb26.jpg"
         },
         {
             "id": "22",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/49/95/5e/49955e043f57a517fc9609218deff284.jpg"
+            "image": "https://i.pinimg.com/736x/49/95/5e/49955e043f57a517fc9609218deff284.jpg"
         },
         {
             "id": "23",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/dc/55/a3/dc55a39e30f334b6147082ec76b5f2fb.jpg"
+            "image": "https://i.pinimg.com/736x/dc/55/a3/dc55a39e30f334b6147082ec76b5f2fb.jpg"
         },
         {
             "id": "24",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/83/03/4a/83034a018a32f8891f75c1383f7b8b6b--gaming-posters-video-games-xbox.jpg"
+            "image": "https://i.pinimg.com/736x/83/03/4a/83034a018a32f8891f75c1383f7b8b6b--gaming-posters-video-games-xbox.jpg"
         },
         {
             "id": "25",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/9e/48/47/9e4847c7a2a2d421a56a2a3c1308a279--video-games-xbox-xbox--games.jpg"
+            "image": "https://i.pinimg.com/736x/9e/48/47/9e4847c7a2a2d421a56a2a3c1308a279--video-games-xbox-xbox--games.jpg"
         },
         {
             "id": "26",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/6b/68/df/6b68df47d68d259055a79ebcc64a0a58.jpg"
+            "image": "https://i.pinimg.com/736x/6b/68/df/6b68df47d68d259055a79ebcc64a0a58.jpg"
         },
         {
             "id": "28",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/2c/1b/10/2c1b10223b555141522b065b986c9aef.jpg"
+            "image": "https://i.pinimg.com/736x/2c/1b/10/2c1b10223b555141522b065b986c9aef.jpg"
         },
         {
             "id": "30",
             "name_category": "Gamer Wallpaper",
             "title": "Gamer Wallpaper",
-            "image": "https://i.pinimg.com/236x/e0/7c/f9/e07cf92e33a12cdd253946a16c089067.jpg"
+            "image": "https://i.pinimg.com/736x/e0/7c/f9/e07cf92e33a12cdd253946a16c089067.jpg"
         }
  ]
 }
