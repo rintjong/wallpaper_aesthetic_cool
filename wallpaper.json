@@ -44,6 +44,60 @@
       "name_category": "Cool Wallpapers",
       "image": "https://i.pinimg.com/736x/f3/b3/3e/f3b33e67e9b11fc568a8aeeeba852a11.jpg"
 
+    },
+	  {
+      "id": 3,
+      "name_category": "HD Wallpapers",
+      "image": "https://i.pinimg.com/736x/cb/27/3c/cb273ca6cdafa278dd9d3671f7ec1b8f.jpg"
+
+    },
+	  {
+      "id": 4,
+      "name_category": "Black Wallpapers",
+      "image": "https://i.pinimg.com/736x/0b/75/f2/0b75f2255ae920cbce731ac479845d4a.jpg"
+
+    },
+	  {
+      "id": 5,
+      "name_category": "Wallpaper 4K",
+      "image": "https://i.pinimg.com/736x/f8/bc/74/f8bc7468779239ac73003b3123f90896.jpg"
+
+    },
+	  {
+      "id": 6,
+      "name_category": "Anime Wallpaper",
+      "image": "https://i.pinimg.com/736x/53/d0/42/53d042261583ad0d5e53abad5d20b2fb.jpg"
+
+    },
+	  {
+      "id": 7,
+      "name_category": "Nature Wallpaper",
+      "image": "https://i.pinimg.com/736x/89/cd/33/89cd3307ae67ebe92694c892879140c4.jpg"
+
+    },
+	  {
+      "id": 8,
+      "name_category": "Dark Wallpaper",
+      "image": "https://i.pinimg.com/736/04/e0/0c/04e00c9ad8ed9f6a8fbcfbeb0d0f60d8.jpg"
+
+    },
+	  {
+      "id": 9,
+      "name_category": "Motivational Wallpaper",
+      "image": "https://i.pinimg.com/736x/3e/26/e1/3e26e1e6239d16a11819c40593a6d554.jpg"
+
+    },
+	  {
+      "id": 10,
+      "name_category": "Islamic Wallpaper",
+      "image": "https://i.pinimg.com/736x/a6/a4/3c/a6a43c197fbf0b5b465e4bfd59ffb9db.jpg"
+
+    },
+	  {
+      "id": 11,
+      "name_category": "Gamer Wallpaper",
+      "image": "https://i.pinimg.com/236x/86/e0/b0/86e0b01d272d893e666d7a1946024f9c.jpg"
+
     }
   ],
 
